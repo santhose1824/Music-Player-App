@@ -1,2 +1,2 @@
 # Music-Player-App
-Neumorphic-Music_Player in Flutter lets users enjoy local music files with a sleek neumorphic design. Its intuitive interface offers easy navigation and playback controls, creating an immersive music listening experience right from the device's storage
+Neumorphic-Music_Player is a stylish Flutter application designed to elevate your music listening experience. With its neumorphic design elements, the player blends modern aesthetics with functionality. Seamlessly browse and play your favorite tracks from local storage, all while enjoying smooth navigation and intuitive controls. Whether you're unwinding at home or on the move, Neumorphic-Music_Player promises an immersive journey through your music library.
